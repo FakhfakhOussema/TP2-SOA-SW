@@ -28,13 +28,6 @@ public class BanqueService {
 		list.add(compte3);
 		return list;
 	}
-	public static void main(String[] args) 
-	{
-		// TODO Auto-generated method stub
-		BanqueService bs = new BanqueService();
-		System.out.println(bs.getCompte());
-		System.out.println(bs.getComptes());
-		
-	}
+
 
 }
